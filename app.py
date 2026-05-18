@@ -195,7 +195,7 @@ with col_output:
     st.markdown("""
     <div class="author-box">
         <p style="font-weight:700; font-size:0.9rem; color:#1a73e8;">SISTEM INI DIBUAT OLEH</p>
-        <p><b>Nama  :</b> &nbsp;Hafiz Syafiq AHmad FAuzi</p>
+        <p><b>Nama  :</b> &nbsp;Hafiz Syafiq Ahmad Fauzi</p>
         <p><b>NPM   :</b> &nbsp;237006050</p>
         <p><b>Kelas :</b> &nbsp;B</p>
     </div>
